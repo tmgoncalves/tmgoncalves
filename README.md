@@ -9,6 +9,7 @@ I'm a autodidactic passionate Data Scientist.
 <p>- 🤖 Looking for opportunities and collabaration in projects.</p>
 
 ![tmgoncalves's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmgoncalves&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmgoncalves&theme=radical)
 
 
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://tmgoncalves.medium.com/)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://br.linkedin.com/in/tmgoncalves)
