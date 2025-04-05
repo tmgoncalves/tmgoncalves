@@ -1,22 +1,37 @@
-### Hello World 🤙🏻
-I'm a autodidactic passionate Data Scientist.
+### Hello World 🤙🏻  
+I'm a self-taught and passionate Software Engineer.
 
-<b>About me:</b>
+---
 
-<p>- 👨🏻‍💻 Software Engineering Student at <a href="https://www.42sp.org.br/">42SP</a>;</p>
-<p>- 💻Computer Engineering at <a href="https://univesp.br/">UNIVESP</a>;</p>
-<p>- 🎲 Machine Learning Enthusiastic;</p>
-<p>- 🤖 Looking for opportunities and collabaration in projects.</p>
+### 🚀 About Me
 
-![tmgoncalves's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmgoncalves&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmgoncalves&theme=radical)
+- 👨🏻‍💻 Software Engineering student at [42SP](https://www.42sp.org.br/)  
+- 💻 Pursuing a degree in Computer Engineering at [UNIVESP](https://univesp.br/)  
+- 🧩 Passionate about building scalable systems and clean architecture  
+- 🤝 Open to opportunities and collaborations in software development projects  
 
+---
 
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://tmgoncalves.medium.com/)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://br.linkedin.com/in/tmgoncalves)
+### 📊 GitHub Stats
 
-<b>Languages</b>
+![tmgoncalves's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tmgoncalves&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tmgoncalves&theme=radical)
 
+---
+
+### 🌐 Connect With Me
+
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://tmgoncalves.medium.com/)  
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://br.linkedin.com/in/tmgoncalves)
+
+---
+
+### 🧠 Languages & Tools
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
