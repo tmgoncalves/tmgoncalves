@@ -12,18 +12,15 @@ I'm a self-taught and passionate Software Engineer.
 
 ---
 
-### 📊 GitHub Stats
-
-![tmgoncalves's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tmgoncalves&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tmgoncalves&theme=radical)
-
----
-
 ### 🌐 Connect With Me
 
 <p align="center">
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://tmgoncalves.medium.com/)  
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://br.linkedin.com/in/tmgoncalves)
+  <a href="https://tmgoncalves.medium.com/">
+    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://br.linkedin.com/in/tmgoncalves">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
